@@ -50,8 +50,6 @@ The generated JSON file contains an array of park objects with the following str
 ]
 ```
 
-## Contributing
-
 Feel free to submit issues and enhancement requests!
 
 ## License
