@@ -19,7 +19,7 @@ A Python-based system for extracting and managing park information from HTML sou
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/navshift404/park-voting-system.git
+git clone https://github.com/navijose24/park-voting-system.git
 cd park-voting-system
 ```
 
